@@ -1,0 +1,4 @@
+#!/bin/sh
+
+mkdir $(date "+%y%m%d")
+echo $(date "+%y%m%d")

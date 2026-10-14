@@ -1,0 +1,5 @@
+/*
+*/
+char* longestPalindrome(char* s)
+{
+}
